@@ -4,67 +4,52 @@ export default function Document() {
   return (
     <Html
       className="scroll-smooth"
-      prefix="https://ogp.me/ns/website#"
+      
       lang="en"
     >
       <Head>
-        {/* <title>pranjal ✦ developer, designer</title> */}
-        <meta name="title" content="pranjal ✦ developer, designer" />
+        
+        <meta name="title" content="moin ✦ developer, designer" />
         <meta name="description" content="Developer // Designer // Weeb" />
 
         {/* <!-- Open Graph / Facebook --> */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://pranjalshikhar.vercel.app/" />
-        <meta property="og:title" content="pranjal ✦ developer, designer" />
+        <meta property="og:url" content="https://portfolio-update-pi.vercel.app/" />
+        <meta property="og:title" content="Moin ✦ developer, designer" />
         <meta
           property="og:description"
           content="Developer // Designer // Weeb"
-        />
-        <meta
-          property="og:image"
-          content="https://res.cloudinary.com/dhtviyhse/image/upload/v1682600618/pranjalshikhar_i8znzx.jpg"
         />
 
         {/* <!-- Twitter --> */}
         <meta property="twitter:card" content="summary_large_image" />
         <meta
-          property="twitter:url"
-          content="https://pranjalshikhar.vercel.app/"
-        />
-        <meta
           property="twitter:title"
-          content="pranjal ✦ developer, designer"
+          content="Moin ✦ developer, designer"
         />
         <meta
           property="twitter:description"
-          content="Developer // Designer // Weeb"
+          content="Developer // Designer // Web"
         />
-        <meta
-          property="twitter:image"
-          content="https://res.cloudinary.com/dhtviyhse/image/upload/v1682600618/pranjalshikhar_i8znzx.jpg"
-        />
+        
 
         {/* whatsapp */}
-        <meta property="og:site_name" content="pranjal ✦ developer, designer" />
-        <meta property="og:title" content="pranjal ✦ developer, designer" />
+        <meta property="og:site_name" content="moin ✦ developer, designer" />
+        <meta property="og:title" content="Moin ✦ developer, designer" />
         <meta
           property="og:description"
-          content="Developer // Designer // Weeb"
+          content="Developer // Designer // Web"
         />
-        <meta
-          property="og:image"
-          itemprop="image"
-          content="https://res.cloudinary.com/dhtviyhse/image/upload/v1682600618/pranjalshikhar_i8znzx.jpg"
-        />
+        
         <meta property="og:type" content="website" />
 
         {/* canonical links */}
-        <link rel="canonical" href="https://pranjalshikhar.vercel.app/" />
+        <link rel="canonical" href="https://portfolio-update-pi.vercel.app/" />
         <link
           rel="search"
           href="/opensearch.xml"
           type="application/opensearchdescription+xml"
-          title="pranjal ✦ developer, designer"
+          title="Moin ✦ developer, designer"
         />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
