@@ -5,9 +5,9 @@ import { FiFileText } from "react-icons/fi";
 import Link from "next/link";
 import { FaGithub } from "react-icons/fa";
 import Image from "next/image";
-import image1 from "../../public/project2img/Capture.JPG";
-import image2 from "../../public/project2img/Capture2.JPG";
-import image3 from "../../public/project2img/Capture3.JPG";
+import image1 from "../../public/project2img/Bangla puzzle limited1.jpg";
+import image2 from "../../public/project2img/Bangla puzzle limited2.jpg";
+import image3 from "../../public/project2img/Bangla puzzle limited3.jpg";
 
 export default function Bangla_puzzle_limited() {
   const { systemTheme, theme, setTheme } = useTheme();

@@ -5,9 +5,9 @@ import { FiFileText } from "react-icons/fi";
 import Link from "next/link";
 import { FaGithub } from "react-icons/fa";
 import Image from "next/image";
-import image1 from "../../public/project3img/project3.JPG";
-import image2 from "../../public/project3img/project3.2.JPG";
-import image3 from "../../public/project3img/project3.3.JPG";
+import image1 from "../../public/project3img/CreativeAgencyImg1.jpg";
+import image2 from "../../public/project3img/CreativeAgencyImg2.jpg";
+import image3 from "../../public/project3img/CreativeAgencyImg3.jpg";
 
 export default function Pokedex() {
   const { systemTheme, theme, setTheme } = useTheme();
