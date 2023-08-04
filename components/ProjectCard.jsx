@@ -1,5 +1,5 @@
 import Image from "next/image";
-import hospitalImg from "../public/project1img/hospital1.PNG";
+import hospitalImg from "../public/project1img/hospital1.jpg";
 import writtenImg from "../public/project2img/Bangla puzzle limited1.jpg";
 import odvutsolutionImg from "../public/project3img/odvutsolutionImg1.jpg";
 import CreativeAgencyImg from "../public/project3img/CreativeAgencyImg1.jpg";
