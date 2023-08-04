@@ -124,9 +124,6 @@ const Experience = () => {
             <span className="bg-gradient-to-b from-amber-100 to-orange-100 dark:from-amber-300 dark:to-orange-300 rounded-md text-center px-2 py-1">
               Illustrator
             </span>
-            <span className="bg-gradient-to-b from-amber-100 to-orange-100 dark:from-amber-300 dark:to-orange-300 rounded-md text-center px-2 py-1">
-              Webflow
-            </span>
           </div>
           <div className="relative w-full h-80 rounded-[1.4rem] ">
             <Image
