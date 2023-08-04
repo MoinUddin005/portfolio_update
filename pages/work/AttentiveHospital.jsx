@@ -5,9 +5,9 @@ import { FiFileText } from "react-icons/fi";
 import Link from "next/link";
 import { FaGithub } from "react-icons/fa";
 import Image from "next/image";
-import hospitalImg from "../../public/project1img/hospital1.PNG";
-import hospitalImg2 from "../../public/project1img/hospital2.PNG";
-import hospitalImg3 from "../../public/project1img/hospital3.PNG";
+import hospitalImg from "../../public/project1img/hospital1.png";
+import hospitalImg2 from "../../public/project1img/hospital2.png";
+import hospitalImg3 from "../../public/project1img/hospital3.png";
 
 export default function AttentiveHospital() {
   const { systemTheme, theme, setTheme } = useTheme();
